@@ -1,0 +1,8 @@
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DTO\bin\x86\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DTO\bin\x86\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DTO\bin\x86\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DTO\obj\x86\Debug\DTO.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DTO\obj\x86\Debug\DTO.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DTO\obj\x86\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DTO\obj\x86\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DTO\obj\x86\Debug\DTO.pdb

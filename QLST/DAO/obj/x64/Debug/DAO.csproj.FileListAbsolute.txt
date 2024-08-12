@@ -1,0 +1,14 @@
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\bin\x64\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\bin\x64\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\bin\x64\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\bin\x64\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\bin\x64\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\bin\x64\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\obj\x64\Debug\DAO.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\obj\x64\Debug\DAO.Form1.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\obj\x64\Debug\DAO.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\obj\x64\Debug\DAO.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\obj\x64\Debug\DAO.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\obj\x64\Debug\DAO.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\obj\x64\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\DAO\obj\x64\Debug\DAO.pdb

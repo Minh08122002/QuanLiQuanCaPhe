@@ -1,0 +1,157 @@
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\obj\Debug\BUS.Form1.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\obj\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\BUS\obj\Debug\BUS.pdb
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\BUS.exe.config
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\BUS.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\BUS.pdb
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\DAO.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\DTO.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\DAO.pdb
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\DAO.exe.config
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\DTO.pdb
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\bin\Debug\DTO.exe.config
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\obj\Debug\BUS.Form1.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\obj\Debug\BUS.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\BUS\obj\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\obj\Debug\BUS.Form1.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\obj\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\obj\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\EPPlus.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\EPPlus.Interfaces.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\EPPlus.System.Drawing.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\EPPlus.xml
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\BUS\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\obj\Debug\BUS.Form1.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\obj\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\BUS\obj\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\obj\Debug\BUS.Form1.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\obj\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\obj\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.Form1.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\BUS.exe.config
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\BUS.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\BUS.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DAO.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DTO.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DAO.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DAO.exe.config
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DTO.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\bin\Debug\DTO.exe.config
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.SuggestedBindingRedirects.cache
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.Form1.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.CopyComplete
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\BUS\obj\Debug\BUS.pdb
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\BUS.exe.config
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\BUS.exe
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\BUS.pdb
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\DAO.exe
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\DTO.exe
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\DAO.pdb
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\DAO.exe.config
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\DTO.pdb
+D:\Đồ Án\CuoiCungNe\QLST\BUS\bin\Debug\DTO.exe.config
+D:\Đồ Án\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Đồ Án\CuoiCungNe\QLST\BUS\obj\Debug\BUS.Form1.resources
+D:\Đồ Án\CuoiCungNe\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+D:\Đồ Án\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+D:\Đồ Án\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Đồ Án\CuoiCungNe\QLST\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Đồ Án\CuoiCungNe\QLST\BUS\obj\Debug\BUS.exe
+D:\Đồ Án\CuoiCungNe\QLST\BUS\obj\Debug\BUS.pdb
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\BUS\obj\Debug\BUS.csproj.SuggestedBindingRedirects.cache
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\BUS\obj\Debug\BUS.exe
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\BUS\obj\Debug\BUS.pdb
+C:\win\QuanLiCF\QLST\QLST\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\win\QuanLiCF\QLST\QLST\BUS\obj\Debug\BUS.csproj.SuggestedBindingRedirects.cache
+C:\win\QuanLiCF\QLST\QLST\BUS\obj\Debug\BUS.Properties.Resources.resources
+C:\win\QuanLiCF\QLST\QLST\BUS\obj\Debug\BUS.csproj.GenerateResource.cache
+C:\win\QuanLiCF\QLST\QLST\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\win\QuanLiCF\QLST\QLST\BUS\obj\Debug\BUS.exe
+C:\win\QuanLiCF\QLST\QLST\BUS\obj\Debug\BUS.pdb

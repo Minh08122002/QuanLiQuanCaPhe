@@ -1,0 +1,503 @@
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.Form1.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\QLST.exe.config
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fHangHoa.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\QLST.exe.config
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\QLST.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\QLST.pdb
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\BUS.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\DTO.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\DAO.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\BUS.pdb
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\BUS.exe.config
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\DTO.pdb
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\DTO.exe.config
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\DAO.pdb
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\DAO.exe.config
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fHangHoa.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.Form1.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.exe
+F:\C#\DemoDoan\DoanST\test1\QLST\QLST\obj\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fSanPhamTimKiem.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.Form1.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\QLST.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fQuanLyHoaDon.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinHoaDon.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fKhachHang.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fKhachHangTemp.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinKhachHang.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinKhachHangTemp.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fLoading.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\obj\Debug\QLST.fLogon.resources
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\EPPlus.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\EPPlus.Interfaces.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\EPPlus.System.Drawing.dll
+E:\0306201537\LT Windows\DOAN\Demo1\test1\QLST\QLST\bin\Debug\EPPlus.xml
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\QLST.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fLoading.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fLogon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fQuanLyHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fSanPhamTimKiem.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.Form1.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\Demo1\test1\QLST\QLST\obj\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fKhachHang.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fLoading.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fLogon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fQuanLyHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fSanPhamTimKiem.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.Form1.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThongTinHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThongTinKhachHang.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\QLST.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fKhachHangTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThemKhachHang.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\QLST.fThongTinKhachHangTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\test1\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\QLST.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\BUS.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DTO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DAO.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\BUS.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\BUS.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DTO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DTO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DAO.pdb
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DAO.exe.config
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fHangHoa.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fKhachHang.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fKhachHangTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLoading.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLoaiSanPhamMoi.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLogon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhaCC.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fQuanLyHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSanPhamTimKiem.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSuaLoaiSanPham.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSuaNhaCungCap.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemNcc.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fXemSanPham.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.Form1.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemKhachHang.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemLoaiSP.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemLSP_Data.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemSanPham.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinHoaDon.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinKhachHang.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinKhachHangTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\QLST.exe.config
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\QLST.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\QLST.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\BUS.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DTO.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DAO.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\BUS.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\BUS.exe.config
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DTO.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DTO.exe.config
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DAO.pdb
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\DAO.exe.config
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fHangHoa.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fKhachHang.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fKhachHangTemp.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLoading.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLoaiSanPhamMoi.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLogon.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhaCC.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fQuanLyHoaDon.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSanPhamTimKiem.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSuaLoaiSanPham.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSuaNhaCungCap.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemNcc.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fXemSanPham.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.Form1.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemKhachHang.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemLoaiSP.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemLSP_Data.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemSanPham.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinHoaDon.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinKhachHang.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinKhachHangTemp.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.exe
+F:\0306201537\LT Windows\DOAN\XoaLaRotMon\CuoiCungNe\QLST\QLST\obj\Debug\QLST.pdb
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\QLST.exe.config
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\QLST.exe
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\QLST.pdb
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\BUS.exe
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\DTO.exe
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\DAO.exe
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\BUS.pdb
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\BUS.exe.config
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\DTO.pdb
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\DTO.exe.config
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\DAO.pdb
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\DAO.exe.config
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+D:\Đồ Án\CuoiCungNe\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fHangHoa.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fKhachHang.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fKhachHangTemp.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLoading.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLoaiSanPhamMoi.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fLogon.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhaCC.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fQuanLyHoaDon.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSanPhamTimKiem.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSuaLoaiSanPham.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fSuaNhaCungCap.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemNcc.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fXemSanPham.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.Form1.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemKhachHang.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemLoaiSP.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemLSP_Data.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemSanPham.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinHoaDon.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinKhachHang.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinKhachHangTemp.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.exe
+D:\Đồ Án\CuoiCungNe\QLST\QLST\obj\Debug\QLST.pdb
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\QLST.exe.config
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\QLST.exe
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\QLST.pdb
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\BUS.exe
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\DTO.exe
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\DAO.exe
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\BUS.pdb
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\BUS.exe.config
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\DTO.pdb
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\DTO.exe.config
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\DAO.pdb
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\DAO.exe.config
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fHangHoa.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fKhachHang.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fKhachHangTemp.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fLoading.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fLoaiSanPhamMoi.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fLogon.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fNhaCC.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fQuanLyHoaDon.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fSanPhamTimKiem.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fSuaLoaiSanPham.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fSuaNhaCungCap.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThemNcc.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fXemSanPham.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.Form1.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThemKhachHang.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThemLoaiSP.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThemLSP_Data.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThemSanPham.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThongTinHoaDon.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThongTinKhachHang.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThongTinKhachHangTemp.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.exe
+C:\win\DoAnCuaHuy\DoAnCuaHuy\QLST\QLST\obj\Debug\QLST.pdb
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\QLST.exe.config
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\QLST.exe
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\QLST.pdb
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\AdvancedDataGridView.dll
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\BUS.exe
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\DTO.exe
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\FontAwesome.Sharp.dll
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\DAO.exe
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\BUS.pdb
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\BUS.exe.config
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\DTO.pdb
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\DTO.exe.config
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\AdvancedDataGridView.xml
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\DAO.pdb
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\DAO.exe.config
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\win\QuanLiCF\QLST\QLST\QLST\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\GUI.csproj.AssemblyReference.cache
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\GUI.csproj.SuggestedBindingRedirects.cache
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fHangHoa.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fKhachHang.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fKhachHangTemp.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fLoading.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fLoaiSanPhamMoi.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fLogon.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fNhaCC.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fQuanLyHoaDon.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fHoaDon.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fSanPhamTimKiem.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fSuaLoaiSanPham.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fSuaNhaCungCap.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThemNcc.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fXemSanPham.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fTaiKhoanTemp.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fTaiKhoan.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fNhanVienTemp.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.Form1.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThemKhachHang.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThemLoaiSP.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThemLSP_Data.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThemSanPham.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThemTaiKhoan.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThemNhanVien.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThongTinHoaDon.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThongTinKhachHang.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThongTinKhachHangTemp.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoanTemp.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThongTinTaiKhoan.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThongTinNhanVienTemp.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.fThongTinNhanVien.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.RJTextBox.resources
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\GUI.csproj.GenerateResource.cache
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\GUI.csproj.CoreCompileInputs.cache
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\GUI.csproj.CopyComplete
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.exe
+C:\win\QuanLiCF\QLST\QLST\QLST\obj\Debug\QLST.pdb

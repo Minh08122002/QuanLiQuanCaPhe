@@ -1,0 +1,11 @@
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\QLST.exe.config
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\bin\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.csproj.AssemblyReference.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.Form1.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.Properties.Resources.resources
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.csproj.GenerateResource.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.csproj.CoreCompileInputs.cache
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.exe
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.pdb
+E:\0306201537\LT Windows\DOAN\test1\QLST\QLST\obj\Debug\QLST.fNhanVien.resources
